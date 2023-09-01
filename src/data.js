@@ -2,16 +2,16 @@ const parciales = [
     {
         id: 1,
         materia: "Matematica",
-        unidades: "1, 2 y 3 - Cuestionarios para elegir opciones",
-        fecha: "09 Sep 2023 18:00:00",
+        unidades: "(Capítulo 1,2 y 3) de 18 a 22 hs. Cuestionarios para elegir opciones. Puede haber defensa oral",
+        fecha: "11 Sep 2023 18:00:00",
         duracion: "1:30HS"
 
     },
     {
         id: 2,
         materia: "Programacion",
-        unidades: "Recuperacion de actividades",
-        fecha: "20 Sep 2023 18:00:00",
+        unidades: "Práctica y cierre de actividades",
+        fecha: "13 Sep 2023 18:00:00",
         duracion: "Duracion desconocida"
 
     },
@@ -20,7 +20,7 @@ const parciales = [
         materia: "Ingles",
         unidades: "1 evaluacion integradora - Trabajo en foros",
         fecha: "07 Sep 2023 18:00:00",
-        duracion: "Posiblemente una semana"
+        duracion: "Fecha de entrega 14/09"
 
     },
     {
@@ -54,7 +54,39 @@ const parciales = [
         fecha: "17 Nov 2023 18:00:00",
         duracion: "Duracion desconocida"
 
-    }
+    },
+    {
+        id: 8,
+        materia: "Matematica",
+        unidades: "SEGUNDO PARCIAL (Capítulo 4,5 y 6) Cuestionarios para elegir opciones - Puede haber defensa oral",
+        fecha: "23 Oct 2023 18:00:00",
+        duracion: "1:30HS"
+
+    },
+    {
+        id: 9,
+        materia: "Inglés",
+        unidades: "2° EVALUACIÓN INTEGRADORA - Trabajo en foros",
+        fecha: "26 Oct 2023 18:00:00",
+        duracion: "Fecha de entrega 02/11"
+
+    },
+    {
+        id: 10,
+        materia: "Programacion",
+        unidades: "Recuperación Etapa 1",
+        fecha: "20 Sep 2023 18:00:00",
+        duracion: "Duracion desconocida"
+
+    },
+/*     {
+        id: 11,
+        materia: "random",
+        unidades: "Recuperación Etapa 1",
+        fecha: "01 Sep 2023 04:20:00",
+        duracion: "Duracion desconocida"
+
+    } */
 
 
 
