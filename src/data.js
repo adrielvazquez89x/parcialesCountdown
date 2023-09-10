@@ -79,14 +79,30 @@ const parciales = [
         duracion: "Duracion desconocida"
 
     },
-/*     {
+    {
         id: 11,
-        materia: "random",
-        unidades: "Recuperación Etapa 1",
-        fecha: "01 Sep 2023 04:20:00",
-        duracion: "Duracion desconocida"
+        materia: "SPD",
+        unidades: "De unidad 2 a unidad 4",
+        fecha: "19 Sep 2023 18:00:00",
+        duracion: "Es entre las 8am y las 23:59. Pero no se la duracion"
 
-    } */
+    },
+    {
+        id: 12,
+        materia: "SPD",
+        unidades: "TRABAJO DE RAID",
+        fecha: "15 Oct 2023 00:00:00",
+        duracion: "Eran 40 dias de cuando avisó"
+
+    }
+    /*     {
+            id: 11,
+            materia: "random",
+            unidades: "Recuperación Etapa 1",
+            fecha: "01 Sep 2023 04:20:00",
+            duracion: "Duracion desconocida"
+    
+        } */
 
 
 
