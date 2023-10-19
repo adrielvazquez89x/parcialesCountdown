@@ -59,7 +59,7 @@ const parciales = [
         id: 8,
         materia: "Matematica",
         unidades: "SEGUNDO PARCIAL (Capítulo 4,5 y 6) Cuestionarios para elegir opciones - Puede haber defensa oral",
-        fecha: "23 Oct 2023 18:00:00",
+        fecha: "30 Oct 2023 18:00:00",
         duracion: "1:30HS"
 
     },
@@ -94,7 +94,16 @@ const parciales = [
         fecha: "15 Oct 2023 00:00:00",
         duracion: "Eran 40 dias de cuando avisó"
 
+    },
+    {
+        id: 13,
+        materia: "SPD",
+        unidades: "SEGUNDO PARCIAL",
+        fecha: "07 Nov 2023 00:00:00",
+        duracion: "UNIDADES FINALES"
+
     }
+
     /*     {
             id: 11,
             materia: "random",
