@@ -1,8 +1,7 @@
-# React + Vite
+# Cuenta regresiva para parciales.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto personal para poder sabe cuanto tiempo falta para el siguiente parcial.
 
-Currently, two official plugins are available:
+Como las fechas ya pasaron, las extendí con fecha a 2024 para poder visualizar el comportamiento.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Una vez comience el nuevo ciclo lectivo, pondré las fechas correspondientes.
