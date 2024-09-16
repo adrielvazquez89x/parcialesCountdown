@@ -1,68 +1,92 @@
 const parciales = [
     {
         id: 1,
-        materia: "Programación 2",
-        unidades: "POO, Archivos",
-        fecha: "13 May 2024 18:00:00",
-        duracion: "Tal vez una semana."
+        materia: "Programación 3",
+        unidades: "Actividad 3 - Porfolio",
+        fecha: "20 Sep 2024 23:59:59",
+        duracion: ""
 
     },
     {
         id: 2,
-        materia: "Programacion 2",
-        unidades: "Sobrecarga, memoria dinámica, funciones amigas, polimorfismo.",
-        fecha: "10 Jun 2024 18:00:00",
-        duracion: "Tal vez dos semanas"
+        materia: "Programación 3",
+        unidades: "Actividad 4 - ASP.NET",
+        fecha: "27 Sep 2024 23:59:59",
+        duracion: ""
 
     },
     {
         id: 3,
-        materia: "Programacion 2",
-        unidades: "Existe un TP Integrador. Solo menciona la fecha de entrega.",
-        fecha: "24 Jun 2024 18:00:00",
-        duracion: "Fecha de entrega 24/06"
+        materia: "Programación 3",
+        unidades: "Actividad 5 - ASP.NET",
+        fecha: "27 Sep 2024 23:59:59",
+        duracion: ""
 
     },
     {
         id: 4,
-        materia: "Laboratorio 2",
-        unidades: "Defensa del exámen integrador.",
-        fecha: "13 Jun 2024 18:00:00",
-        duracion: "Desconocida."
+        materia: "Programación 3",
+        unidades: "Actividad Final - ASP.NET",
+        fecha: "15 Nov 2024 23:59:59",
+        duracion: ""
 
     },
     {
         id: 5,
-        materia: "Laboratorio 2",
-        unidades: "Defensa del exámen integrador.",
-        fecha: "27 Jun 2024 18:00:00",
-        duracion: "Desconocida."
+        materia: "Laboratorio 3",
+        unidades: "Primer Parcial",
+        fecha: "30 Sep 2024 18:00:00",
+        duracion: "1:30hs - 2:00hs"
 
     },
     {
         id: 6,
-        materia: "Laboratorio 2",
-        unidades: "Defensa del exámen integrador.",
-        fecha: "04 Jul 2024 18:00:00",
-        duracion: "Desconocida."
+        materia: "Laboratorio 3",
+        unidades: "Segundo Parcial",
+        fecha: "04 Nov 2024 18:00:00",
+        duracion: "1:30hs - 2:00hs"
 
     },
     {
-        id: 6,
-        materia: "Laboratorio 2",
-        unidades: "Exámen final.",
-        fecha: "18 Jul 2024 18:00:00",
-        duracion: "Desconocida."
+        id: 7,
+        materia: "Laboratorio 3",
+        unidades: "Exámen Final",
+        fecha: "04 Nov 2024 18:00:00",
+        duracion: "1:30hs - 2:00hs"
 
     },
     {
-        id: 6,
-        materia: "Laboratorio 2",
-        unidades: "Exámen final.",
-        fecha: "25 Jul 2024 18:00:00",
-        duracion: "Desconocida."
+        id: 8,
+        materia: "ARSO",
+        unidades: "Entrega TP Linux",
+        fecha: "21 Sep 2024 18:00:00",
+        duracion: ""
 
-    }
+    },
+    {
+        id: 9,
+        materia: "ARSO",
+        unidades: "Defensa TP Linux",
+        fecha: "21 Sep 2024 18:00:00",
+        duracion: ""
+
+    },
+    {
+        id: 10,
+        materia: "ARSO",
+        unidades: "1er Parcial",
+        fecha: "05 Oct 2024 18:00:00",
+        duracion: ""
+
+    },
+    {
+        id: 11,
+        materia: "ARSO",
+        unidades: "2do Parcial",
+        fecha: "09 Nov 2024 18:00:00",
+        duracion: ""
+
+    },
 
 ]
 export default parciales;
