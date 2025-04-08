@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import todotermino from './todotermino.jpg';
 
 const Countdown = ({ materia, fecha, unidades, duracion }) => {
