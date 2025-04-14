@@ -28,7 +28,7 @@ function App() {
         const fechaParcial = new Date(parcial.fecha);
         const tiempoTranscurrido = now - fechaParcial;
         const horasTranscurridas = tiempoTranscurrido / (1000 * 60 * 60);
-        return horasTranscurridas < 5;
+        return horasTranscurridas < 24;
       });
       setParciales(nuevosParciales);
     }, 1000);
